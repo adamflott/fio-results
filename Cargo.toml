@@ -9,7 +9,7 @@ description = "JSON parser for fio test results"
 homepage = "https://github.com/adamflott/fio-results"
 
 [dependencies]
-bytesize = { version = "2.0.1", features = ["serde"] }
+bytesize = { version = "2.3.0", features = ["serde"] }
 chrono = { version = "0.4.42", features = ["serde"]}
 regex = "1.11.2"
 serde = { version = "1.0.219", features = ["derive"] }
