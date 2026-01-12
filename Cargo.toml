@@ -14,6 +14,6 @@ chrono = { version = "0.4.42", features = ["serde"]}
 regex = "1.11.2"
 serde = { version = "1.0.219", features = ["derive"] }
 serde_derive = "1.0.219"
-serde_json = "1.0.143"
+serde_json = "1.0.149"
 serde_with = "3.14.0"
 thiserror = "2.0.16"
